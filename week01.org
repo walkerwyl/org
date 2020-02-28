@@ -38,6 +38,8 @@
 
 * Thurday
 
+** TODO 导出org模式的作业为Markdown,上交第一篇博客
+
 
 ** 书法鉴赏(8-9)卢舟一星
    DEADLINE: <2020-02-27 周四 17:25> SCHEDULED: <2020-02-27 周四 15:45>
@@ -47,6 +49,12 @@
 
 ** 信息论(1-3)黄迟\雄文军
    DEADLINE: <2020-02-28 周五 11:05> SCHEDULED: <2020-02-28 周五 08:30>
+
+** TODO 更换服务器为Ubuntu并重新熟悉相关配置
+
+** TODO Numpy学习第二单元
+
+** TODO 数学建模的matlab程序
 
 * Saturday
 
